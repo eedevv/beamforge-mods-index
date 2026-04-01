@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": 0,
+  "sources": {
+    "beamng": {
+      "totalMods": 0,
+      "totalPages": 1,
+      "pageSize": 50
+    },
+    "modland": {
+      "totalMods": 0,
+      "totalPages": 1,
+      "pageSize": 50
+    }
+  }
+}
